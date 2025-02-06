@@ -9,4 +9,5 @@
 - asyncio
 - reauests
 - BeautifulSoup
+- OpenAI (AsyncOpenAI)
 
