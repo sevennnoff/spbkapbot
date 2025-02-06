@@ -38,8 +38,6 @@ spis.pop(60)
 spis.pop(88)
 vacancy = ""
 vacancies = []
-""" print(spis)
-print(len(spis)) """
 index = 0
 for i in range(len(spis)//4):
     for v in range(4):
@@ -55,5 +53,7 @@ for i in range(len(spis)//4):
 #print(vacancies)
 nkl = vacancies[0:15]
 ekl = vacancies[15:22]
+""" x=3
+print(nkl[x].split(". ")[3]) """
 """ print(nkl)
 print(ekl) """
