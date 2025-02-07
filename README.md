@@ -7,7 +7,7 @@
 Использованы библиотеки:
 - aiogram
 - asyncio
-- reauests
+- requests
 - BeautifulSoup
 - OpenAI (AsyncOpenAI)
 
